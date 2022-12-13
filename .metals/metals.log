@@ -14,3 +14,53 @@ semanticdb-javac: unknown flag '3\Tarea3\src'
 
 2022.12.09 19:20:12 INFO  time: code lens generation in 1.32s
 2022.12.09 19:22:15 INFO  shutting down Metals
+2022.12.10 22:32:13 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3\.metals\lsp.trace.json or C:\Users\dante\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.10 22:32:14 INFO  logging to file D:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3\.metals\metals.log
+2022.12.10 22:32:14 INFO  Started: Metals version 0.11.9 in workspace 'D:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3' for client Visual Studio Code 1.74.0.
+2022.12.10 22:32:16 INFO  time: initialize in 2.16s
+2022.12.10 22:32:18 WARN  Build server is not auto-connectable.
+2022.12.10 22:32:18 WARN  no build tool detected in workspace 'D:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.10 22:32:18 WARN  no build target for: D:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3\src\App.java
+2022.12.10 22:32:20 WARN  Running javac-semanticdb failed for file:///D:/Universidad/2022-2/Prueba%20de%20Software/Tarea%203/Tarea3/src/App.java. Output:
+semanticdb-javac: unknown flag 'de'
+
+semanticdb-javac: unknown flag 'Software\Tarea'
+
+semanticdb-javac: unknown flag '3\Tarea3\src'
+
+2022.12.10 22:39:20 WARN  no build target for: D:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3\src\App.java
+2022.12.10 22:39:22 WARN  Running javac-semanticdb failed for file:///D:/Universidad/2022-2/Prueba%20de%20Software/Tarea%203/Tarea3/src/App.java. Output:
+semanticdb-javac: unknown flag 'de'
+
+semanticdb-javac: unknown flag 'Software\Tarea'
+
+semanticdb-javac: unknown flag '3\Tarea3\src'
+
+2022.12.10 22:46:09 WARN  no build target for: D:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3\src\App.java
+2022.12.10 22:46:10 WARN  Running javac-semanticdb failed for file:///D:/Universidad/2022-2/Prueba%20de%20Software/Tarea%203/Tarea3/src/App.java. Output:
+semanticdb-javac: unknown flag 'de'
+
+semanticdb-javac: unknown flag 'Software\Tarea'
+
+semanticdb-javac: unknown flag '3\Tarea3\src'
+
+2022.12.10 22:46:29 INFO  shutting down Metals
+2022.12.11 21:56:16 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3\.metals\lsp.trace.json or C:\Users\dante\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.11 21:56:19 INFO  logging to file D:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3\.metals\metals.log
+2022.12.11 21:56:19 INFO  Started: Metals version 0.11.9 in workspace 'D:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3' for client Visual Studio Code 1.74.0.
+2022.12.13 18:55:08 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3\.metals\lsp.trace.json or C:\Users\dante\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.12.13 18:55:11 INFO  logging to file D:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3\.metals\metals.log
+2022.12.13 18:55:11 INFO  Started: Metals version 0.11.9 in workspace 'D:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3' for client Visual Studio Code 1.74.0.
+2022.12.13 18:55:15 INFO  time: initialize in 3.85s
+2022.12.13 18:55:19 WARN  Build server is not auto-connectable.
+2022.12.13 18:55:19 WARN  no build tool detected in workspace 'D:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.13 18:55:19 WARN  no build target for: D:\Universidad\2022-2\Prueba de Software\Tarea 3\Tarea3\src\App.java
+2022.12.13 18:55:22 WARN  Running javac-semanticdb failed for file:///D:/Universidad/2022-2/Prueba%20de%20Software/Tarea%203/Tarea3/src/App.java. Output:
+semanticdb-javac: unknown flag 'de'
+
+semanticdb-javac: unknown flag 'Software\Tarea'
+
+semanticdb-javac: unknown flag '3\Tarea3\src'
+
+2022.12.13 18:55:22 INFO  time: code lens generation in 1.85s
+2022.12.13 19:37:06 INFO  shutting down Metals

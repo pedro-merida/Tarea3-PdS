@@ -1,18 +1,25 @@
-## Getting Started
+## Como ejecutar el programa
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Para la ejecución del programa se necesita la herramientes "Eclipse".
 
-## Folder Structure
+Abrir el proyecto con Eclipse y luego posicionarse en el archivo "App.java" ubicado en Tarea3/src/(default package), y luego correr con el boton run de Eclipse
 
-The workspace contains two folders by default, where:
+![App.java](./img/Correr_app.png)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Como ejecutar suite de pruebas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Posicionarse en el archivo "AppTest.java" ubicado en Tarea3/src/(default package), luego desplegar las opciones del boton run, ir a "Run As" y finalmente seleccionar "JUnit Test"
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+![AppTest.java](./img/Correr_tests.png)
 
-## Dependency Management
+A continuación se muestra una imagen del resultado de las pruebas ejecutadas:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Pruebas](./img/Pruebas.png)
+
+## Cobertura de las pruebas
+
+A continuación se muestra la cobertura de las pruebas realizadas:
+
+![AppTest.java](./img/Coverage.png)
+
+
